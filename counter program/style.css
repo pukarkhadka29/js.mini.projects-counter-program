@@ -1,0 +1,31 @@
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+   width: 100vw;
+   height: 100vh;
+}
+
+#text {
+    font-weight: 900;
+    font-size: 3em;
+}
+
+#mybtn {
+    display: flex;
+    margin: 30px;
+}
+
+#title {
+    background-color: #000;
+    color: #fff;
+}
+
+#Ine-Dec {
+    margin: 20px;
+}
+
+#Ine-Dec input { 
+    width: 40px;
+
+}
